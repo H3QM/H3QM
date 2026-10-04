@@ -11,7 +11,7 @@
 [![Production Status](https://img.shields.io/badge/Production-Live_at_h3qm.com-blueviolet?style=for-the-badge)](https://h3qm.com)
 
 <p align="center">
-  <b>Principal Investigator: Cosmo Chou</b> · <i>H3QM Laboratory</i> · <a href="mailto:cosmo@h3qm.org">cosmo@h3qm.org</a>
+  <b>Principal Investigator: Cosmo Chou</b> · <i>H3QM Laboratory</i> · <a href="mailto:cosmo@h3qm.org">cosmo@h3qm.org</a> · <a href="mailto:h3qm.org@gmail.com">h3qm.org@gmail.com</a>
 </p>
 
 ---
@@ -140,5 +140,5 @@ Selected foundational literature across the three publication tiers:
 
 - **Laboratory**: H3QM Research Laboratory
 - **Principal Investigator**: Cosmo Chou ([ORCID: 0009-0006-5048-1406](https://orcid.org/0009-0006-5048-1406))
-- **Email**: [cosmo@h3qm.org](mailto:cosmo@h3qm.org)
+- **Email**: [cosmo@h3qm.org](mailto:cosmo@h3qm.org) · [h3qm.org@gmail.com](mailto:h3qm.org@gmail.com)
 - **Official Portal**: [https://h3qm.com](https://h3qm.com)
