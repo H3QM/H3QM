@@ -25,7 +25,7 @@ All official H3QM high-performance interactive computing environments are live i
 | Platform | Domain & Direct Access | Core Focus & Live Capabilities |
 | :--- | :--- | :--- |
 | 🧮 **Equivalency Mathematics & TopoNPU** | **[h3qm.com/math](https://h3qm.com/math/)** | **Decidable Reflection & Witness Oracle**: 0 MACs (multiplier-less), first-order ternary sign flows `sgn(·)`, machine epsilon saturation identity $(2^{-3})^8 = 2^{-24} = \epsilon_{\text{float32}}$, Terence Tao Proof Digestibility (CDI), and Exact 0 integer residual solvers. |
-| 🧬 **Biomedical & AlphaDock Drug Discovery** | **[h3qm.com/bio](https://h3qm.com/bio/)** | **Idempotent Attractor Lock-in**: Ultra-high-throughput topological molecular docking ($Put(Put(S,v),v)=Put(S,v)$), non-Euclidean conformational phase frustration analysis, and zero-shot bio-harmonic candidate screening without GPU dependency. |
+| 🧬 **Biomedical & AlphaDock Drug Discovery** | **[h3qm.com/bio](https://h3qm.com/bio/)** | **Idempotent Attractor Lock-in**: Ultra-high-throughput topological molecular docking (`Put(Put(S, v), v) = Put(S, v)`), non-Euclidean conformational phase frustration analysis, and zero-shot bio-harmonic candidate screening without GPU dependency. |
 | 🌌 **Unified Geometric Physics** | **[h3qm.com/physics](https://h3qm.com/physics/)** | **Dual-Core Symplectic Dynamics**: Coupled micro-knot (Engine A) and macro-fluid (Engine B) hydrodynamics, BootLoops 1.0 multiloop QFT reduction isomorphism, Borromean 5-crossing glueball $X(2370)$ topological solitons, and cosmological phonon fields. |
 
 ---
@@ -67,7 +67,7 @@ The theoretical foundations of H3QM are structured around five mutually self-con
    - Integrates **Hong Wang (王虹)**'s 3D Kakeya Fourier restriction directional mask $\mathcal{M}_{\text{Kakeya}}$ and **Yu Deng (鄧煜)**'s nonlinear random tensor operator averaging for $O(\log N)$ attractor lock-in.
 2. **Pillar 2: Discrete Dyadic Sign Dynamics (離散次梯度符號動力學)**:
    - Discovered and formalized by **Cosmo Chou**: Critical Dyadic Contraction Identity $(2^{-3})^8 = 2^{-24} = \epsilon_{\text{float32}}$, proving float32 mantissa saturation at step 8.
-   - Bypasses floating-point accumulation via 100% multiplier-less ternary sign flows $\operatorname{sgn}(\nabla_{\text{topo}} E) \in \{-1, 0, +1\}$ on integer metric spaces, achieving **Exact 0** residual.
+   - Bypasses floating-point accumulation via 100% multiplier-less ternary sign flows $\mathrm{sgn}(\nabla_{\mathrm{topo}} E) \in \{-1, 0, +1\}$ on integer metric spaces, achieving **Exact 0** residual.
 3. **Pillar 3: Dual-Core Coupled Solvers (微觀-宏觀雙核耦合動態)**:
    - Decouples micro-scale topological vortex knots (Engine A, singular part $b$) from continuous background vacuum phonon fields (Engine B, smooth part $g$) via Calderón–Zygmund orthogonal cancellation ($\int b = 0 \implies \hat{b}(0) = 0$).
 4. **Pillar 4: Categorical Cybernetics & Lawful Lenses (範疇控制論與合法透鏡)**:
