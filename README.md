@@ -18,7 +18,7 @@
 
 </div>
 
-## 🌐 Official Production Platforms (三大核心平台直通門戶)
+## 🌐 Official Production Platforms
 
 All official H3QM high-performance interactive computing environments are live in production at **[h3qm.com](https://h3qm.com)**:
 
@@ -30,7 +30,7 @@ All official H3QM high-performance interactive computing environments are live i
 
 ---
 
-## 🏛️ The Five Foundational Scientific Pillars of H3QM (五大核心學術支柱)
+## 🏛️ The Five Foundational Scientific Pillars of H3QM
 
 The theoretical foundations of H3QM are structured around five mutually self-consistent mathematical and physical pillars:
 
@@ -62,25 +62,25 @@ The theoretical foundations of H3QM are structured around five mutually self-con
 ══════════════════════════════════════════════════════════════════════════════════════
 ```
 
-1. **Pillar 1: Multiscale Harmonic Analysis (連續調和分析)**:
+1. **Pillar 1: Multiscale Harmonic Analysis**:
    - Grounded in Terence Tao's BMO bounded mean oscillation and Calderón–Zygmund singular integral theory.
-   - Integrates **Hong Wang (王虹)**'s 3D Kakeya Fourier restriction directional mask $\mathcal{M}_{\text{Kakeya}}$ and **Yu Deng (鄧煜)**'s nonlinear random tensor operator averaging for $O(\log N)$ attractor lock-in.
-2. **Pillar 2: Discrete Dyadic Sign Dynamics (離散次梯度符號動力學)**:
+   - Integrates **Hong Wang**'s 3D Kakeya Fourier restriction directional mask $\mathcal{M}_{\text{Kakeya}}$ and **Yu Deng**'s nonlinear random tensor operator averaging for $O(\log N)$ attractor lock-in.
+2. **Pillar 2: Discrete Dyadic Sign Dynamics**:
    - Discovered and formalized by **Cosmo Chou**: Critical Dyadic Contraction Identity $(2^{-3})^8 = 2^{-24} = \epsilon_{\text{float32}}$, proving float32 mantissa saturation at step 8.
    - Bypasses floating-point accumulation via 100% multiplier-less ternary sign flows $\mathrm{sgn}(\nabla_{\mathrm{topo}} E) \in \{-1, 0, +1\}$ on integer metric spaces, achieving **Exact 0** residual.
-3. **Pillar 3: Dual-Core Coupled Solvers (微觀-宏觀雙核耦合動態)**:
+3. **Pillar 3: Dual-Core Coupled Solvers**:
    - Decouples micro-scale topological vortex knots (Engine A, singular part $b$) from continuous background vacuum phonon fields (Engine B, smooth part $g$) via Calderón–Zygmund orthogonal cancellation ($\int b = 0 \implies \hat{b}(0) = 0$).
-4. **Pillar 4: Categorical Cybernetics & Lawful Lenses (範疇控制論與合法透鏡)**:
+4. **Pillar 4: Categorical Cybernetics & Lawful Lenses**:
    - Unifies discrete kinematics and continuous geometry through David Spivak and Jules Hedges' lawful bidirectional lenses (`GetPut`, `PutGet`, `PutPut`).
    - Glues local open sets into a global topos via Alexander Grothendieck's sheaf semantics.
-5. **Pillar 5: Deterministic Scientific Harness & Turnstile Gates (確定性科學約束線路)**:
+5. **Pillar 5: Deterministic Scientific Harness & Turnstile Gates**:
    - Aligned with Matthew Schwartz's **BootLoops 1.0** open-source paradigm (*Claude-Shaped Science*).
    - Replaces AI heuristic hallucinations with 100% Wolfram-free verified tools (`python-flint`, Arb ball arithmetic).
    - Enforces planted-truth degenerate controls, independent dual-route verification, and fault-injection negative controls that halt within $\le 3$ iterations.
 
 ---
 
-## ⚡ Triad of Empirical Truth (三重實證客觀驗證閉環)
+## ⚡ Triad of Empirical Truth
 
 To eliminate uninterpretable black-box heuristics and floating-point round-off artifacts, H3QM enforces a three-tier empirical verification loop:
 
